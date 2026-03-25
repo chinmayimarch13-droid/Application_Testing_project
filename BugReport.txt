@@ -1,0 +1,5 @@
+Bug 1:
+Login works with empty password
+
+Bug 2:
+Error message not displayed properly
