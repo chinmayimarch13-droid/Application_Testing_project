@@ -1,0 +1,8 @@
+Test Case 1:
+Check login with valid username and password
+
+Test Case 2:
+Check login with invalid password
+
+Test Case 3:
+Check login with empty fields
