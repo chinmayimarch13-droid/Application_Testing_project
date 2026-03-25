@@ -1,1 +1,11 @@
-# Application_Testing_project
+# Application_Testing_projec
+This project includes:
+- Test Plan
+- Test Cases
+- Bug Reports
+- SQL Queries
+
+Tools Used:
+- Manual Testing
+- SQL
+- GitHub
