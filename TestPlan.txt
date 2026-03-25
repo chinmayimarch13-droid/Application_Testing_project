@@ -1,0 +1,10 @@
+Test Plan:
+Application: Login Page
+
+Objective:
+To test login functionality
+
+Scope:
+- Valid login
+- Invalid login
+- Empty fields
