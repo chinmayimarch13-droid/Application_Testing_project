@@ -9,3 +9,7 @@ Tools Used:
 - Manual Testing
 - SQL
 - GitHub
+## Improvemts
+-Added Test Cases
+-Added Bug Report
+-Added SQL queries
